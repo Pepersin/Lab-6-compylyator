@@ -38,3 +38,7 @@
 ![Ввод РВ для проверки слов, содержащих подстроку “кофе” и имеющих ровно 10 символов]![image](https://github.com/user-attachments/assets/5fb0d663-8505-44e8-b67a-f48bc22422aa)
 
 ![Ввод РВ, описывающее время. Формат: ЧЧ:ММ:СС в 24-часовом формате с обязательным ведущим 0]![image](https://github.com/user-attachments/assets/dd6f6640-4f69-4044-9af0-ec663f46f477)
+
+## Доп задание: 
+![image](https://github.com/user-attachments/assets/37c28f1e-e07a-4b87-8693-33cce90839f2)
+
